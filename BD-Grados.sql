@@ -1,6 +1,6 @@
 DROP DATABASE if EXISTS  grados;
 CREATE DATABASE grados; 
-USE grados;
+USE grados; 
 
 DROP TABLE IF EXISTS Grades;
 DROP TABLE IF EXISTS GroupsStudents;
